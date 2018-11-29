@@ -1,0 +1,480 @@
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\ApplicationInsights.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Book Store.dll.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Book Store.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Book Store.pdb
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\csc.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\csc.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\csc.rsp
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\csi.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\csi.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\csi.rsp
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.AppContext.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Collections.Immutable.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Console.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.IO.Compression.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.AccessControl.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.Claims.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.ValueTuple.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\vbc.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\vbc.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\vbc.rsp
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Antlr3.Runtime.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\EntityFramework.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\EntityFramework.SqlServer.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.Web.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.ApplicationInsights.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Web.Infrastructure.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Newtonsoft.Json.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Owin.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Helpers.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Mvc.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Optimization.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Razor.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.WebPages.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.WebPages.Razor.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\WebGrease.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Helpers.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Mvc.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Optimization.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.Razor.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.WebPages.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Web.WebPages.Razor.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Newtonsoft.Json.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Antlr3.Runtime.pdb
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\EntityFramework.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\EntityFramework.SqlServer.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.AI.Web.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\obj\Release\Book Store.csprojAssemblyReference.cache
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\obj\Release\Book Store.csproj.CoreCompileInputs.cache
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\obj\Release\Book Store.csproj.CopyComplete
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\obj\Release\Book Store.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - Oct112018\Bookstore\Book Store\obj\Release\Book Store.pdb
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\ApplicationInsights.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Book Store.dll.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Book Store.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Book Store.pdb
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\csc.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\csc.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\csc.rsp
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\csi.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\csi.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\csi.rsp
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.AppContext.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Collections.Immutable.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Console.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Compression.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.AccessControl.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Claims.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.ValueTuple.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\vbc.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\vbc.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\vbc.rsp
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe.config
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Antlr3.Runtime.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\EntityFramework.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\EntityFramework.SqlServer.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.Web.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.ApplicationInsights.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Web.Infrastructure.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Newtonsoft.Json.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Owin.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Helpers.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Mvc.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Optimization.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Razor.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.WebPages.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Razor.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\WebGrease.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Helpers.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Mvc.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Optimization.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.Razor.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.WebPages.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Razor.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Newtonsoft.Json.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Antlr3.Runtime.pdb
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\EntityFramework.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\EntityFramework.SqlServer.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.AI.Web.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\obj\Release\Book Store.csprojAssemblyReference.cache
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\obj\Release\Book Store.csproj.CoreCompileInputs.cache
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\obj\Release\Book Store.csproj.CopyComplete
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\obj\Release\Book Store.dll
+C:\GEORGIAN COLLEGE\HienLam Semester 3\Projects\Assignment1_Comp2084 - HienLam\Bookstore\Book Store\obj\Release\Book Store.pdb
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\ApplicationInsights.config
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Book Store.dll.config
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Book Store.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Book Store.pdb
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\csc.exe
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\csc.exe.config
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\csc.rsp
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\csi.exe
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\csi.exe.config
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\csi.rsp
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.AppContext.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Collections.Immutable.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Console.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Compression.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.AccessControl.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Claims.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.ValueTuple.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\vbc.exe
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\vbc.exe.config
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\vbc.rsp
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe.config
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Antlr3.Runtime.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\EntityFramework.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\EntityFramework.SqlServer.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.Web.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.ApplicationInsights.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Web.Infrastructure.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Newtonsoft.Json.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Owin.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Helpers.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Mvc.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Optimization.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Razor.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Razor.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\WebGrease.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Helpers.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Mvc.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Optimization.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.Razor.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Razor.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Newtonsoft.Json.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Antlr3.Runtime.pdb
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\EntityFramework.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\EntityFramework.SqlServer.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.AI.Web.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\obj\Release\Book Store.csprojAssemblyReference.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\obj\Release\Book Store.csproj.CoreCompileInputs.cache
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\obj\Release\Book Store.csproj.CopyComplete
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\obj\Release\Book Store.dll
+Z:\hienlam On My Mac\Computer_Data\HienLam Semester 3\Projects\Assignment2_Part1_HienLam\Bookstore\Book Store\obj\Release\Book Store.pdb
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\ApplicationInsights.config
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Book Store.dll.config
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Book Store.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Book Store.pdb
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\csc.exe
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\csc.exe.config
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\csc.rsp
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\csi.exe
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\csi.exe.config
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\csi.rsp
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.AppContext.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Console.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\vbc.exe
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\vbc.exe.config
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\vbc.rsp
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Antlr3.Runtime.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\EntityFramework.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\EntityFramework.SqlServer.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.Web.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Newtonsoft.Json.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Owin.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Helpers.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Mvc.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Optimization.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Razor.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\WebGrease.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Helpers.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Mvc.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Optimization.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.Razor.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Newtonsoft.Json.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Antlr3.Runtime.pdb
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\EntityFramework.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\EntityFramework.SqlServer.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.AI.Web.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\obj\Release\Book Store.csprojAssemblyReference.cache
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\obj\Release\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\obj\Release\Book Store.csproj.CopyComplete
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\obj\Release\Book Store.dll
+C:\Users\Hien Lam\Desktop\Assignment2_Part2_HienLam\Bookstore\Book Store\obj\Release\Book Store.pdb
