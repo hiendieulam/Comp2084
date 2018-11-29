@@ -16,57 +16,57 @@
 
 - Details:
 
-• Id is null returns error
+  - Id is null returns error
 
-• Book is null returns Error
+  - Book is null returns Error
 
-• Valid Id loads View return Details
+  - Valid Id loads View return Details
 
-• Valid Id loads Book return Book
+  - Valid Id loads Book return Book
 
 - Edit:
 
-• Id is null returns Error
+  - Id is null returns Error
 
-• Book is null returns Error
+  - Book is null returns Error
 
-• Valid Id loads View returns Edit
+  - Valid Id loads View returns Edit
 
-• Valid Id loads Book returns Edit
+  - Valid Id loads Book returns Edit
 
-• ViewBag Artist if is not null test display result
+  - ViewBag Artist if is not null test display result
 
-• ViewBag Category if is not null test display result
+  - ViewBag Category if is not null test display result
 
-• ViewBag Publisher if is not null test display result
+  - ViewBag Publisher if is not null test display result
 
-• Redirect returns result
+  - Redirect returns result
 
 - Create:
 
-• Loads view returns Create
+  - Loads view returns Create
 
-• ViewBag Artist if is not null returns result
+  - ViewBag Artist if is not null returns result
 
-• ViewBag Category if is not null returns result
+  - ViewBag Category if is not null returns result
 
-• ViewBag Publisher if is not null returns result
+  - ViewBag Publisher if is not null returns result
 
-• Load Redirect View when Book is null returns result
+  - Load Redirect View when Book is null returns result
 
-• Load Redirect View when Book is not null returns result
+  - Load Redirect View when Book is not null returns result
 
 - Delete:
 
-• Id is null returns Error
+  - Id is null returns Error
 
-• Book is null returns Error
+  - Book is null returns Error
 
-• Valid Id Loads View test Delete
+  - Valid Id Loads View test Delete
 
-• Valid Id Delete test Delete
+  - Valid Id Delete test Delete
 
-• Redirect Valid Id DeleteComfirmed test result 
+  - Redirect Valid Id DeleteComfirmed test result 
 
 
 -	Using Moq to create mock data, that is virual data to test database in production .
