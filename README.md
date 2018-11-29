@@ -1,7 +1,10 @@
 # Comp2084
 Assignment 2 – Server-Side Scripting Function of this application:
+
 •	Using BooksControllerTest to test in Unit Testing project.
+
 •	Create IBooksMock is virtual database to test.
+
 •	Create Unit Tests for each method in ONE Controller to test code as possible such as Index, Details, Edit, Create, Delete based on the scenarios:
 
 • Index:
