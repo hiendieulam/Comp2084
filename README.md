@@ -1,6 +1,5 @@
-# Comp2084
+# Assignment 2 – Server-Side Scripting Function of this application:
 
-Assignment 2 – Server-Side Scripting Function of this application:
 
 -	Using BooksControllerTest to test in Unit Testing project.
 
@@ -10,9 +9,9 @@ Assignment 2 – Server-Side Scripting Function of this application:
 
 - Index:
 
-• Do we have Book data?
+  - Do we have Book data?
 
-• Testing result, does the correct view load? 
+  - Testing result, does the correct view load? 
 
 
 - Details:
